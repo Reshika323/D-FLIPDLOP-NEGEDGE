@@ -49,7 +49,7 @@ Developed by: M RESHIKA RegisterNumber:24011491
 ![image](https://github.com/user-attachments/assets/ef6b6c67-dfe2-4ff0-8309-a71909d76d36)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![image](https://github.com/user-attachments/assets/cf9072e7-1d40-46f7-bafc-4af22060d706)
 
